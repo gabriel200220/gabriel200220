@@ -4,12 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>gabriel200220</title>
 </head>
 <body>
-     <center><h1>gabriel200220</h1></center>
+     <center><h1>Usuario: gabriel200220</h1></center>
     <div>
-        <p style="font-size: 30px;"><strong>Nome:</strong>Gabriel da Silva</p>
+        <p style="font-size: 30px;"><strong>Nome: </strong>Gabriel da Silva</p>
         <img style="width: 300px;" src="/35347ecd-eadf-423e-a420-916c8bc674ac.jfif" alt="">
     </div>
      <center><h2 style="font-size: 30px;">Meus Hobbies</h2></center>
@@ -25,7 +24,8 @@
     <p>Tive Experiência na area de house couting, trabalhei na empresa buildtech tecnologias, onde eu era responsável por criar a planta da cidade no autocad, informando a localização de todas as casas, postes, lojas, prédios. E também informava tipos de fibras utilizadas nos postes, para que podessemos colocar internet de fibra ótica na cidade.</p>
     <p>também tive Experiência nas formas kunz, onde foi meu último emprego, trabalhei como operador de CNC, trabalhando assim na estilização das formas do sapato.</p><br>
     <center><h4 style="font-size: 30px;">Oque venho estudado</h4></center>
-    <p>Atualmente no programa starter da growdev, onde estou estudando, tenho aprendido os conceitos de HTML e CSS, e tambem outras formas de programação que agregam junto, como git, github e style.css. Porém é apenas o começo dos estudos, logo mais aprenderei muito mais.</p><br>    
+    <p>Atualmente no programa starter da growdev, onde estou estudando, tenho aprendido os conceitos de HTML e CSS, e tambem outras formas de programação que agregam junto, como git, github e style.css. Porém é apenas o começo dos estudos, logo mais aprenderei muito mais.</p><br>
+
     [![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/iuricode/)
     
     ### Main skills:
