@@ -25,8 +25,6 @@
     <p>também tive Experiência nas formas kunz, onde foi meu último emprego, trabalhei como operador de CNC, trabalhando assim na estilização das formas do sapato.</p><br>
     <center><h4 style="font-size: 30px;">Oque venho estudado</h4></center>
     <p>Atualmente no programa starter da growdev, onde estou estudando, tenho aprendido os conceitos de HTML e CSS, e tambem outras formas de programação que agregam junto, como git, github e style.css. Porém é apenas o começo dos estudos, logo mais aprenderei muito mais.</p><br>
-
-    [![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/iuricode/)
     
     ### Main skills:
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
